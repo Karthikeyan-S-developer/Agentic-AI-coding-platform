@@ -7,7 +7,7 @@ This is a MERN stack application for an Agentic AI Challenge Platform.
 1.  **Clone the repository:**
 
     ```bash
-    git clone <your-repository-url>
+    git clone https://github.com/Karthikeyan-S-developer/Agentic-AI-coding-platform
     cd Agentic AI coding platform
     ```
 
@@ -49,19 +49,3 @@ This is a MERN stack application for an Agentic AI Challenge Platform.
     cd client
     npm run dev
     ```
-
-## Dependencies
-
-*(List dependencies from package.json files here)*
-
-## About the App
-
-*(Add a description of your application here, including features, purpose, etc.)*
-
-## Contributing
-
-*(Add contribution guidelines here)*
-
-## License
-
-*(Add license information here)*
