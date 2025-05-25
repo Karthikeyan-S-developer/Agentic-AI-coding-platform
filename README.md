@@ -1,6 +1,6 @@
 # Agentic AI Challenge Platform
 
-This is a MERN stack application for an Agentic AI Challenge Platform.
+This is a MERN stack application for an Agentic AI Challenge Platform - https://github.com/Karthikeyan-S-developer/Agentic-AI-coding-platform
 
 ## Setup
 
